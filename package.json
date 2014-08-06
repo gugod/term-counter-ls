@@ -1,0 +1,16 @@
+{
+  "name": "term-counter-ls",
+  "scripts": {
+    "start": "lsc term-counter.ls"
+  },
+  "version": "0.1.1-1",
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "analyze": false,
+  "dependencies": {
+    "LiveScript": "1.2.x",
+    "request": "*"
+  }
+}
